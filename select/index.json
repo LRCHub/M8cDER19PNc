@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "フライデイノベルス",
+  "base_artist": "UNISON SQUARE GARDEN",
+  "createdAt": "2026-03-08T09:41:46.057421Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "フライデイノベルス",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/01_フライデイノベルス_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フライデイノベルス",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": false,
+      "path": "select/pl_01_フライデイノベルス_UNISON_SQUARE_GARDEN.txt"
+    }
+  ]
+}
